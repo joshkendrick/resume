@@ -47,17 +47,6 @@ joshua.c.kendrick@gmail.com || 31TenSoftware.com/about || 573-826-0721
 - Provided in-country support to Hermes London 2012 Olympics deployment: ~60 devices with ~16 hour/day usage. Also supported UN General Assemblies and Pan American Games.
 - 2 Imagery & Geospatial Sciences Professional Advisory Board Team of the Year Awards.
 
----
-
-### University of Missouri - Columbia
-
-#### App Developer | AUG 2009 - MAY 2011
-
-##### Java, Android, VB, .NET, C#
-
-- GoMizzou Android Dev Team: added dining hall widget, safe-ride scheduling widget, and stability improvements. Created complementing web services in C# with .NET.
-- Teaching Assistant: created lesson plans, graded tests, taught and graded labs in VB.
-
 ## Education
 | School | Certification | Grade |
 | --- | --- | --- |
