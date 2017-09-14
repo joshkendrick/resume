@@ -45,7 +45,6 @@ joshua.c.kendrick@gmail.com || 31TenSoftware.com/about || 573-826-0721
 
 - Sole developer of Hermes: a geospatial software solution comprised of a web app, Android app, and Django backend; used to track personnel and report photo-tagged events.
 - Provided in-country support to Hermes London 2012 Olympics deployment: ~60 devices with ~16 hour/day usage. Also supported UN General Assemblies and Pan American Games.
-- 2 Imagery & Geospatial Sciences Professional Advisory Board Team of the Year Awards.
 
 ## Education
 | School | Certification | Grade |
