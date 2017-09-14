@@ -7,6 +7,16 @@ joshua.c.kendrick@gmail.com || 31TenSoftware.com/about || 573-826-0721
 
 ## Experience
 
+### Boundless Spatial
+
+#### Software Engineer || JUN 2017 - Present
+
+##### React-Native, Java, Android
+
+- API & SpatialConnect SDK Team
+
+---
+
 ### Fulcrum Mobile Solutions
 
 #### Software Engineer || SEP 2014 - JUN 2017
