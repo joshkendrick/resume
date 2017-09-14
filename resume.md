@@ -9,7 +9,7 @@ joshua.c.kendrick@gmail.com || 31TenSoftware.com/about || 573-826-0721
 
 ### Fulcrum Mobile Solutions
 
-#### Software Engineer | SEP 2014 - JUN 2017
+#### Software Engineer || SEP 2014 - JUN 2017
 
 ##### Java, Android, Fabric, Espresso, Retrofit
 
@@ -23,7 +23,7 @@ joshua.c.kendrick@gmail.com || 31TenSoftware.com/about || 573-826-0721
 
 ### Thermopylae Sciences + Technology
 
-#### Software Engineer | FEB 2013 - SEP 2014
+#### Software Engineer || FEB 2013 - SEP 2014
 
 ##### Java, Android, Backend Engineering
 
@@ -39,7 +39,7 @@ joshua.c.kendrick@gmail.com || 31TenSoftware.com/about || 573-826-0721
 
 ### National Geospatial-Intelligence Agency
 
-#### Project Scientist | JUL 2009 - FEB 2013
+#### Project Scientist || JUL 2009 - FEB 2013
 
 ##### Java, Android, Python, Django, JQuery
 
