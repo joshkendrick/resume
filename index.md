@@ -60,4 +60,4 @@ joshua.c.kendrick@gmail.com --- www.joshkendrick.org --- 573-826-0721
 
 | School | Certification | Grade |
 | --- | --- | --- |
-| University of Missouri - Columbia | B. S. Computer Science | GPA 3.81, Magna Cum Laude
+| University of Missouri - Columbia | B. S. Computer Science | GPA 3.81, Magna Cum Laude |
