@@ -1,9 +1,6 @@
----
----
-
 # Josh Kendrick
 
-joshua.c.kendrick@gmail.com || 31TenSoftware.com/about || 573-826-0721
+joshua.c.kendrick@gmail.com --- www.joshkendrick.org --- 573-826-0721
 
 ## Summary
 > A bright, self-motivated, and organized software engineer that is capable of quickly getting up to speed with your methods and technologies, and is eager to help your organization succeed.
@@ -61,5 +58,4 @@ joshua.c.kendrick@gmail.com || 31TenSoftware.com/about || 573-826-0721
 
 ## Education
 | School | Certification | Grade |
-| --- | --- | --- |
 | University of Missouri - Columbia | B. S. Computer Science | GPA 3.81, Magna Cum Laude
