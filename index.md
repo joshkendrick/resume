@@ -57,5 +57,7 @@ joshua.c.kendrick@gmail.com --- www.joshkendrick.org --- 573-826-0721
 - Provided in-country support to Hermes London 2012 Olympics deployment: ~60 devices with ~16 hour/day usage. Also supported UN General Assemblies and Pan American Games.
 
 ## Education
+
 | School | Certification | Grade |
+| --- | --- | --- |
 | University of Missouri - Columbia | B. S. Computer Science | GPA 3.81, Magna Cum Laude
