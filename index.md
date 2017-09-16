@@ -1,3 +1,6 @@
+---
+---
+
 # Josh Kendrick
 
 joshua.c.kendrick@gmail.com || 31TenSoftware.com/about || 573-826-0721
