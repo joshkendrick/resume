@@ -1,7 +1,3 @@
----
-title: Josh's Resume
----
-
 # Josh Kendrick
 
 joshua.c.kendrick@gmail.com --- www.joshkendrick.org --- 573-826-0721
