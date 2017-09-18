@@ -1,6 +1,6 @@
 # Josh Kendrick
 
-joshua.c.kendrick@gmail.com --- www.joshkendrick.org --- 573-826-0721
+joshua.c.kendrick@gmail.com --- [www.joshkendrick.org](http://www.joshkendrick.org/) --- 573-826-0721
 
 ## Summary
 > A bright, self-motivated, and organized software engineer that is capable of quickly getting up to speed with your methods and technologies, and is eager to help your organization succeed.
