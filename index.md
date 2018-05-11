@@ -11,9 +11,14 @@ joshua.c.kendrick@gmail.com --- [www.joshkendrick.org](http://www.joshkendrick.o
 
 #### Software Engineer || JUN 2017 - Present
 
-##### React-Native, Java, Android
+##### Kubernetes, Python, Golang, Kafka, Protobuf, Android dev stack
 
-- API & SpatialConnect SDK Team
+- Scalable Infrastructure Dev and Support:
+  - Kubernetes, etc. - Developing manifests, supporting deployments
+  - SpatialIO - Python service to receive geospatial data files and process them into PostGIS and/or Geoserver
+  - WORM - Golang service to receive requests, translate them to Protobuf message, place on Kafka, etc.
+- SpatialConnect SDK (Android):
+  - Briefly aided mobile team in bug-fixing and platform stabilization
 
 ---
 
