@@ -1,9 +1,9 @@
 # Josh Kendrick
 
-joshua.c.kendrick@gmail.com --- [www.joshkendrick.org](http://www.joshkendrick.org/) --- 573-826-0721
+joshua.c.kendrick@gmail.com --- [www.joshkendrick.us](http://www.joshkendrick.us/) --- 573-826-0721
 
 ## Summary
-> A bright, self-motivated, and organized software engineer that is capable of quickly getting up to speed with your methods and technologies, and is eager to help your organization succeed.
+> I am a bright, self-motivated, and organized software engineer. I'm good at getting up to speed with new methods and technologies, and I'm eager to help your organization succeed.
 
 ## Experience
 
@@ -11,12 +11,13 @@ joshua.c.kendrick@gmail.com --- [www.joshkendrick.org](http://www.joshkendrick.o
 
 #### Software Engineer || JUN 2017 - Present
 
-##### Kubernetes, Python, Golang, Kafka, Protobuf, Android dev stack
+##### Golang, Kubernetes, Python, Kafka, Protobuf, Java, Spring Boot, Android dev stack
 
 - Scalable Infrastructure Dev and Support:
+  - WORM - Golang service that sits between clients/front-ends and Kafka. Receives requests, translates them to Protobuf message, places on Kafka, returns responses, etc.
   - Kubernetes, etc. - Developing manifests, supporting deployments
   - SpatialIO - Python service to receive geospatial data files and process them into PostGIS and/or Geoserver
-  - WORM - Golang service to receive requests, translate them to Protobuf message, place on Kafka, etc.
+  - Briefly wrote services for Spring Boot, utilized Eureka
 - SpatialConnect SDK (Android):
   - Briefly aided mobile team in bug-fixing and platform stabilization
 
