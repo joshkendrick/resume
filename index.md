@@ -7,9 +7,18 @@ joshua.c.kendrick@gmail.com --- [www.joshkendrick.us](http://www.joshkendrick.us
 
 ## Experience
 
+### Enterprise Holdings
+
+#### Engineer 2 || NOV 2018 - Present
+
+- Perform work in all phases of the software engineering cycle; from initial concept through to implementation and deployment to production 
+- Support a multi-billion dollar business application (ECARS) by maintaining existing functionality while adding new features
+
+---
+
 ### Boundless Spatial
 
-#### Software Engineer || JUN 2017 - Present
+#### Software Engineer || JUN 2017 - NOV 2018
 
 ##### Golang, Kubernetes, Python, Kafka, Protobuf, Java, Spring Boot, Android dev stack
 
